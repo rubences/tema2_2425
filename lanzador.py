@@ -1,6 +1,6 @@
 import math
 from Estrella import Estrella
-from Galaxia import Galaxia
+
 
 def distancia(estrella1, estrella2):
     """
